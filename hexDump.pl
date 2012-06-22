@@ -48,6 +48,8 @@ sub dump_char {
 
 sub usage {
   print STDERR <<EOM;
+Written by Peter N Lewis a long time ago
+
 Usage: hdump.pl [file]...
 Example `hdump.pl .cshrc' or `ls -l | hdump.pl'
 EOM

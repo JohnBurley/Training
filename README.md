@@ -6,7 +6,7 @@ Training repo
 Added these three files
  - findFileInPath.pl  getDNSinfo.pl  hexDump.pl
 
-Published
+Published the file to GitHub
 
 forked repo with second user
 

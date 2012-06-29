@@ -1,10 +1,10 @@
 Training
 ========
 
-Training repo
+1) Training repo initialized
 
-Added these three files
- - findFileInPath.pl  getDNSinfo.pl  hexDump.pl
+2) Added these three files
+     - findFileInPath.pl  getDNSinfo.pl  hexDump.pl
 
 Published the file to GitHub
 

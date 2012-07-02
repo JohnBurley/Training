@@ -2,7 +2,6 @@
 
 # Written by Peter N Lewis
 # Released in to the Public Domain
-# I'm going to delete everything now!! :P
 
 # Usage: perl findFileInPath.pl dos2unix
 
